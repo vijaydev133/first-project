@@ -1,0 +1,80 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color: brown;
+}
+
+.pp{
+    text-align: center;
+    
+    
+}
+.cd{
+    text-align: center;
+}
+.am{
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid rgb(252, 159, 159); 
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 2px green;
+    
+    
+
+}
+.qf{
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid rgb(252, 159, 159); 
+    border-radius: 10px; 
+    padding: 10px;
+    box-shadow: 5px 5px 5px 2px green;
+    
+
+}
+.exp{
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid rgb(252, 159, 159);  
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px 2px green;
+
+}
+.cs{
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid rgb(252, 159, 159);
+    border-radius: 10px;  
+    padding: 10px;
+    box-shadow: 5px 5px 5px 2px green;
+
+}
+.fl{
+    width: 90%;
+    margin: 20px auto;
+    border: 2px solid rgb(252, 159, 159); 
+    border-radius: 10px; 
+    padding: 10px;
+    box-shadow: 5px 5px 5px 2px green;
+
+}
+.gt{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+}
+
+a:hover{
+    color: blue;
+}
